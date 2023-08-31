@@ -9,3 +9,5 @@
 7. git commit --amend            # para arreglar algun commit
 8. git checkout -b rama-heroes   # creo una rama y me paso a ella
 9. git checkout master           # me paso a la rama master
+10. git branch -d rama-heroes    # borra la rama deseada
+11. git push // pushea cambios al repo
