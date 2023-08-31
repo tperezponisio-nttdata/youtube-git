@@ -11,3 +11,4 @@
 9. `git checkout master`           # me paso a la rama master
 10. `git branch -d rama-heroes`    # borra la rama deseada
 11. `git push`                     # pushea cambios al repo
+12. `git commit -am`               # add y commit al mismo tiempo
